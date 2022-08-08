@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dansheehan AKA DigitalDan
 - 👀 I’m interested in people and exploring better ways tech can help people
-- 🌱 I’m currently learning about online security, anonymity, gamification of knoweldge and tokenisation of assets. 
+- 🌱 I’m currently learning about leveraging AI, online security, anonymity, hacking and other incredibly important Yins and Yangs of weblife.
 - 💞️ I’m looking to collaborate on gamification of knoweldge and tokenisation of assets.
 - 📫 How to reach me if you're here you know how to find me or...like a rest-o-mod getting old school new again, just call me.
 
